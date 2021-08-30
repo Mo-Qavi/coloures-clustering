@@ -14,5 +14,5 @@ after I again convert the image channels to `HSV` For the sake of gain the hue f
 Now, it's time for training and fitting the data, I selected 4 `n_clusters` the hyperparameter of the `K_means`.
 since the `K_means` labels predictions are just integers numbers and in oeder to for showing it the picture mood, I first assigned to each labels a color code and after I display the image.
 
-**Find the best n_clusters**
+**Find the best n_clusters** <br>
 For doing that I use the `elbow method` and `histogram method`, after doing that I realize the best value for n_clusters is 4 which I choose from the past.
