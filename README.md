@@ -5,7 +5,7 @@ I choose the following image because it painted with separate colors and its clu
 
 <img src="Four_color_world_map.png" style="width:50%" />
 
-## The project summary
+## The project one summary
 In this project, I want to cluster the colors image with image `hue` as feature and `K_means` as training algorithm.
 First the all, I read the image and after that, since i read the image with `opencv` the channel is BGR, so I convert BGR to RGB because I showed the image with `matplotlib`.
 I choose `matplotlib` for showing image because matplotlib can show inside the jupyter notebook, by contrast `Opencv` show the image in a separate window.
@@ -16,3 +16,8 @@ since the `K_means` labels predictions are just integers numbers and in oeder to
 
 **Find the best n_clusters** <br>
 For doing that I use the `elbow method` and `histogram method`, after doing that I realize the best value for n_clusters is 4 which I choose from the past.
+
+
+## The project two summary
+In next project i chose a fruits image which have more complex colors than first one. in this project also, i do all of the job which i do in the project one plus trieing several 
+value for hyperparaneter n_cluster and visulaze for each one. also in the end of this project, i clustred image with 60 centers and panid each clu
