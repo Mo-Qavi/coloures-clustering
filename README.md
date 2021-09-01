@@ -19,5 +19,21 @@ For doing that I use the `elbow method` and `histogram method`, after doing that
 
 
 ## The project two summary
-In next project i chose a fruits image which have more complex colors than first one. in this project also, i do all of the job which i do in the project one plus trieing several 
-value for hyperparaneter n_cluster and visulaze for each one. also in the end of this project, i clustred image with 60 centers and panid each clu
+In the next project, I chose the image of a fruit which have more complex colors than the first one. in this project also, I do all of the jobs which I do in project one plus trying several 
+value for hyperparameter n_cluster and visualize for each one. also at the end of this project, I clustered image with 60 centers and showing time, I paid each cluster according to the 
+center of the original picture.
+
+<img src="Painting according the centers of the original image.png" style="width:50%" />
+
+
+
+
+
+
+
+
+
+
+
+
+
